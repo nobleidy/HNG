@@ -1,0 +1,40 @@
+body{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+header, h2, p{
+    display:block;
+    text-align: center;
+    background-color: aqua;
+    margin-bottom: 50px;
+}
+.good{
+    display: flex;
+    align-items: center;
+    border-radius: 3px;
+    width: 100%;
+    padding: 10px 20px;
+    margin-top: 40px;
+    text-align: center;
+    
+ 
+    
+}
+.submit{
+    display: block;
+    border-radius: 3px;
+    width: 100%;
+    padding: 10px 20px;
+    margin-top: 40px;
+    text-align: center
+    
+    
+
+}
+.radio{
+    display: inline-block;
+}
